@@ -12,6 +12,6 @@ It is part of a system called Lots, which is under development, and aims to help
 ### Data Base ###
 
 * The web API uses the Firebird data base installed on the server;
-* You need to download Firebird and set up access to the bank in appsettings.
+* You need to download Firebird and set up access to the base in appsettings.
 
 
